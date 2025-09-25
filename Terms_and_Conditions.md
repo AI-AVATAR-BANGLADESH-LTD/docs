@@ -1,6 +1,6 @@
 # **Terms and Conditions**
 
-### **Last Updated: 22/09/2025**
+### **Last Updated: 25/09/2025**
 
 ### **Welcome to AI Avatar BD App, owned and operated by AI Avatar Bangladesh Ltd. ("Company", "we", "our", or "us"). By accessing or using our application, you agree to be bound by these Terms and Conditions. Please read them carefully before using the app.**
 
@@ -69,16 +69,37 @@
 - Third-party API limitations may affect service quality or availability
 
 ### **4.4 Third-Party AI Services**
-- We utilize both proprietary and third-party AI APIs to provide services
-- Third-party services include but are not limited to OpenAI, Google AI, and other AI providers
+**MANDATORY THIRD-PARTY DATA SHARING NOTICE:**
+
+- **We utilize both proprietary and third-party AI APIs to provide services**
+- **Third-party services include but are not limited to OpenAI, Google AI, Anthropic, Microsoft Azure AI, Amazon AWS AI, and other AI service providers**
+- **BY USING OUR APP, YOU EXPLICITLY CONSENT TO YOUR DATA BEING SHARED WITH THESE THIRD-PARTY AI SERVICES**
+
+**What Data is Shared:**
+- **All user inputs including text, images, questions, and prompts are transmitted to third-party AI services**
+- **Generated content and responses may be processed by multiple third-party providers**
+- **User interaction patterns and usage data may be shared for service optimization**
+- **Account information may be shared as required for service provision**
+
+**Third-Party Processing Rights:**
+- **Third-party AI providers may use your content to improve their models and services**
+- **We cannot control or guarantee the privacy practices of third-party AI providers**
+- **Third-party providers may retain your data according to their own policies**
+- **Your content may be used for training AI models by third-party providers**
+
+**Service Dependencies:**
 - Service interruptions may occur due to third-party provider issues
 - We are not responsible for third-party service limitations or failures
-- Third-party terms of service may apply to certain features
-- Data processing may occur through third-party AI providers with appropriate safeguards
-- Users acknowledge that their content may be processed by external AI services
-- We implement data protection measures when using third-party APIs
+- Third-party terms of service may apply to certain features and override our terms
 - Third-party API rate limits may affect service availability
 - Changes in third-party API pricing or terms may affect our service offerings
+- **No refunds will be provided for third-party service issues or data handling concerns**
+
+**User Acknowledgment:**
+- **Users acknowledge and accept that their content will be processed by external AI services**
+- **Users waive any claims related to third-party AI data processing**
+- **Users understand that third-party AI services are beyond our control**
+- **Continued use of the app constitutes ongoing consent to third-party data sharing**
 
 ### **4.5 API Dependencies and Service Continuity**
 - Our services rely on multiple external APIs and may be affected by their availability
@@ -115,11 +136,35 @@
 - Coin costs for services are clearly displayed before use
 - No cash value - coins cannot be exchanged for money
 
-### **5.4 Refund Policy**
-- Refunds are generally not provided for coin purchases
-- Refunds may be considered for technical issues preventing service use
-- Refund requests must be submitted within 7 days of purchase
-- Refunds, if approved, will be processed through the original payment method
+### **5.4 No Refund Policy**
+**IMPORTANT: NO REFUNDS WILL BE ISSUED UNDER ANY CIRCUMSTANCES**
+
+- **All coin purchases are final and non-refundable**
+- **No refunds will be provided for any reason including but not limited to:**
+  - Dissatisfaction with AI-generated content quality
+  - Technical issues or service interruptions
+  - Third-party AI service limitations or failures
+  - Account suspension or termination
+  - Changes in service features or pricing
+  - User error or accidental purchases
+  - Concerns about third-party AI data processing
+  - Privacy or data handling concerns
+  - Service availability issues
+  - API limitations or outages
+
+- **Alternative Resolution for Technical Issues:**
+  - For verified technical issues that prevent service use, we may provide in-app currency credits at our sole discretion
+  - Credits are only provided after thorough investigation and confirmation of technical fault on our end
+  - Credits are provided as in-app currency only, never as cash refunds
+  - Credit amounts are determined solely by us and may not equal the original purchase amount
+  - Credits are subject to the same terms and expiration as purchased coins
+  - No guarantee that credits will be provided for any specific issue
+
+- **No Exceptions:**
+  - This no-refund policy applies regardless of local consumer protection laws
+  - No refunds will be processed through payment providers, app stores, or any other channels
+  - Chargeback attempts may result in immediate account termination
+  - Legal action will not result in refund obligations beyond what is legally mandated in Bangladesh
 
 ---
 
@@ -188,12 +233,21 @@
 - Some data may be retained for legal or safety purposes
 
 ### **8.4 Third-Party Data Processing**
-- User content may be processed through third-party AI APIs for service provision
-- We ensure appropriate data protection agreements with all third-party providers
-- Third-party processing is limited to service delivery purposes only
-- Users consent to necessary third-party processing when using AI features
-- We monitor third-party compliance with data protection standards
-- Data processed by third parties is subject to their respective privacy policies
+**EXPLICIT CONSENT TO THIRD-PARTY DATA SHARING:**
+
+- **User content WILL be processed through third-party AI APIs for service provision**
+- **By using this app, you provide explicit, informed consent to share your data with third-party AI services**
+- **This includes but is not limited to OpenAI, Google AI, Anthropic, Microsoft, Amazon, and other AI providers**
+- **Your text inputs, images, questions, and all generated content will be transmitted to these services**
+- **Third-party AI providers may use your content for their own purposes including model training**
+- **We cannot control what third-party providers do with your data beyond our contractual agreements**
+- **Third-party processing is NOT limited to service delivery purposes only**
+- **Users acknowledge that third-party AI services may have different privacy standards**
+- **Data processed by third parties is subject to their respective privacy policies which may be less protective**
+- **We monitor third-party compliance but cannot guarantee their data handling practices**
+- **No refunds or compensation will be provided for third-party data processing concerns**
+- **This consent cannot be withdrawn while continuing to use AI features of the app**
+- **Users waive all rights to object to third-party AI data processing**
 
 ---
 
@@ -292,14 +346,16 @@
 ## **14. Contact Information**
 
 **AI Avatar Bangladesh Ltd.**
-- **Address:** [Insert Complete Bangladesh Address]
-- **Phone:** [Insert Bangladesh Phone Number]
+- **Trade Licence:** TRAD/DNCC/047970/2023
+- **Address:** House No-6 (5th Floor), Road No - 2/B, Baridhara J Block, Dhaka 1212
+- **Phone:** +880 1909-147875
 - **Email:** info@aiavatar.com.bd
-- **Customer Service:** support@aiavatar.com.bd
+- **Customer Service:** info@aiavatar.com.bd
 - **Business Inquiries:** info@aiavatar.com.bd
 
 **For Technical Support:**
-- **Email:** support@aiavatar.com.bd
+- **Email:** info@aiavatar.com.bd
+- **Phone:** +880 1909-147875
 - **In-App Support:** Available through the help section
 
 ---

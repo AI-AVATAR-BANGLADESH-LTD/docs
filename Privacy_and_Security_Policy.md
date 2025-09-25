@@ -1,6 +1,6 @@
 # **Privacy & Security Policy**
 
-**Last Updated: 22/09/2025**
+**Last Updated: 25/09/2025**
 
 At **AI Avatar BD App**, we value your privacy and are committed to protecting your personal data in compliance with Bangladesh's Digital Security Act 2018 and applicable data protection standards.
 
@@ -67,13 +67,24 @@ At **AI Avatar BD App**, we value your privacy and are committed to protecting y
 ## **3. Information Sharing and Disclosure**
 
 ### **3.1 Service Providers**
+We share your information with trusted third-party service providers who assist us in operating our app and providing services to you. **By using our app, you explicitly consent to the sharing of your data with these providers:**
+
 - **Payment Processors:** For handling in-app purchases securely
 - **Cloud Services:** For data storage and app infrastructure
 - **Analytics Providers:** For app performance and usage analysis
 - **Customer Support Tools:** For providing efficient customer service
 - **Security Services:** For fraud prevention and security monitoring
-- **AI Service Providers:** Third-party AI APIs (OpenAI, Google AI, etc.) for content generation
+- **AI Service Providers:** Third-party AI APIs including but not limited to OpenAI, Google AI, Anthropic, Microsoft Azure AI, Amazon AWS AI, and other AI service providers for content generation, image processing, text analysis, and AI avatar creation
 - **API Partners:** External services that power various app features
+
+**Important Notice Regarding Third-Party AI Services:**
+- **User content including text inputs, images, questions, and generated content may be transmitted to and processed by third-party AI service providers**
+- **These third-party AI services may use your content to improve their models and services unless specifically prohibited by their terms**
+- **We cannot guarantee the privacy practices of third-party AI providers beyond our contractual agreements with them**
+- **By using our AI features, you acknowledge and consent to this data sharing with third-party AI services**
+- **Third-party AI providers may have their own data retention and usage policies**
+- **We implement reasonable safeguards but cannot control third-party processing practices**
+- **No refunds will be provided for concerns related to third-party AI data processing**
 
 ### **3.2 Legal Requirements**
 - **Government Authorities:** When required by Bangladesh law
@@ -226,17 +237,24 @@ At **AI Avatar BD App**, we value your privacy and are committed to protecting y
 
 ## **11. Contact Information for Privacy Matters**
 
+**AI Avatar Bangladesh Ltd.**
+- **Trade Licence:** TRAD/DNCC/047970/2023
+- **Address:** House No-6 (5th Floor), Road No - 2/B, Baridhara J Block, Dhaka 1212
+- **Phone:** +880 1909-147875
+- **Email:** info@aiavatar.com.bd
+
 **Privacy Officer:**
 - **Email:** info@aiavatar.com.bd
-- **Phone:** [Insert Direct Number]
-- **Address:** [Insert Complete Address]
+- **Phone:** +880 1909-147875
+- **Address:** House No-6 (5th Floor), Road No - 2/B, Baridhara J Block, Dhaka 1212
 
 **Data Protection Inquiries:**
 - **Email:** info@aiavatar.com.bd
 - **Response Time:** Within 7 business days
 
 **General Support:**
-- **Email:** support@aiavatar.com.bd
+- **Email:** info@aiavatar.com.bd
+- **Phone:** +880 1909-147875
 - **In-App Support:** Available through help section
 
 ---
