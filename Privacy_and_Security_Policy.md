@@ -30,6 +30,13 @@ At **AI Avatar BD App**, we value your privacy and are committed to protecting y
 - **Marketing Communications:** Email preferences, promotional responses
 - **User Feedback:** Ratings, reviews, suggestions, bug reports
 
+### **1.5 Device Permissions and Media Access**
+- **Camera Access:** Video capture during video calls and avatar creation features
+- **Microphone Access:** Audio recording during video calls and audio calls
+- **Media Processing:** Real-time processing of audio and video data for call functionality
+- **Call Data:** Audio and video content during active calls (not stored permanently)
+- **Media Quality:** Technical parameters for optimizing call quality and performance
+
 ---
 
 ## **2. How We Use Your Information**
@@ -38,6 +45,9 @@ At **AI Avatar BD App**, we value your privacy and are committed to protecting y
 - Creating and managing your account
 - Processing in-app purchases and coin transactions
 - Providing AI avatar and content generation services
+- Facilitating video calls using camera access for real-time video communication
+- Enabling audio calls using microphone access for voice communication
+- Processing audio and video data in real-time for call quality optimization
 - Personalizing your app experience
 - Customer support and technical assistance
 
@@ -144,6 +154,8 @@ We share your information with trusted third-party service providers who assist 
 - **Data Processing:** Withdraw consent for optional data processing
 - **Cookie Controls:** Manage cookie and tracking preferences
 - **Feature Controls:** Disable optional data collection features
+- **Device Permissions:** Control camera and microphone access through device settings
+- **Call Privacy:** Video and audio calls require explicit permission for each session
 
 ### **5.3 Account Management**
 - **Account Deletion:** Request permanent deletion of your account
