@@ -70,7 +70,7 @@ At **AI Avatar BD App**, operated by AI Avatar Bangladesh Ltd., we are committed
 
 ## **4. Exceptions and Special Circumstances**
 
-### **4.1 Technical Issues**
+### **4.1 Technical Issues and Timeline**
 **Limited Exception for Verified Technical Faults:**
 
 - For verified technical issues that prevent delivery of purchased digital goods, we may provide **in-app credits only** at our sole discretion
@@ -79,12 +79,34 @@ At **AI Avatar BD App**, operated by AI Avatar Bangladesh Ltd., we are committed
 - Credit amounts are determined solely by us and may not equal the original purchase amount
 - Credits are subject to the same terms and expiration as purchased Trust Tokens
 
-### **4.2 Investigation Process**
-- Technical issues must be reported within 48 hours of purchase
-- We will investigate all reported technical issues thoroughly
-- Investigation may take 5-7 business days to complete
-- Credit decisions are final and non-appealable
-- No guarantee that credits will be provided for any specific issue
+**Technical Error Response Timeline:**
+- **Immediate Response (0-2 hours):** Automated acknowledgment of technical error reports
+- **Initial Assessment (2-24 hours):** Technical team reviews reported issues and categorizes severity
+- **Investigation Period (1-7 business days):** Detailed investigation of technical faults
+- **Resolution Timeline (7-14 business days):** Final decision and credit disbursement (if applicable)
+
+### **4.2 Investigation Process and Compliance Timeline**
+**Reporting Requirements:**
+- Technical issues must be reported within **48 hours** of purchase for consideration
+- Reports must include transaction ID, payment confirmation, and error description
+- Late reports (after 48 hours) will not be eligible for investigation
+
+**Investigation Timeline:**
+- **Day 1-2:** Initial verification of transaction and payment gateway records
+- **Day 3-5:** Technical system audit and error reproduction attempts
+- **Day 6-7:** Final assessment and decision making
+- **Day 8-14:** Credit processing and account updates (if approved)
+
+**Payment Gateway Compliance Timeline:**
+- **SSLCommerz Integration Response:** Real-time payment processing (0-30 seconds)
+- **Transaction Verification:** Automated verification within 2 minutes of payment
+- **Payment Gateway Error Resolution:** 2-4 hours for gateway-related technical issues
+- **Compliance Reporting:** Technical errors reported to SSLCommerz within 24 hours
+- **Regulatory Compliance:** All timeline records maintained for Bangladesh Bank requirements
+
+**Escalation Timeline:**
+- Complex technical issues may require up to **21 business days** for resolution
+- Banking/payment disputes may require **45 business days** per regulatory requirements
 
 ### **4.3 What Does NOT Qualify for Credits**
 - User dissatisfaction with AI-generated content
